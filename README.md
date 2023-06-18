@@ -9,7 +9,7 @@ To use this scheduler, follow the steps below:
 1. Clone the repository:
 
    bash
-   git clone [https://github.com/example/repository.git](https://github.com/Hithhuuu/asynio-scheduler.git)
+   git clone [[https://github.com/example/repository.git](https://github.com/Hithhuuu/asynio-scheduler.git)](https://github.com/Hithhuuu/asyncio-scheduler.git)
    
 
 2. Install the required dependencies:
